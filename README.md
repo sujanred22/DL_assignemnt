@@ -5,6 +5,6 @@ The training data is generated using the first and second input features greater
 To plot the graph, training loss and test loss after each epoch is taken. The y-axis represents loss and the x-axis represents the iterations.
 
 Running the code:
-*Import the specified modules which include a few pytorch modules
-*Run the code
-*To generate different types of training data, the parameters in the 'Generate some training and test data' section can be modified.
+* Import the specified modules which include a few pytorch modules
+* Run the code
+* To generate different types of training data, the parameters in the 'Generate some training and test data' section can be modified.
